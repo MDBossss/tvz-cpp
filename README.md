@@ -1,4 +1,4 @@
 
 ## Object-Oriented Programming 
 ---
-### 1 - Konstruktori, <vector>
+### 1 - Konstruktori, vector, metode, klase
