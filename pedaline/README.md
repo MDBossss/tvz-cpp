@@ -2,15 +2,15 @@ Vlasnik ste koncerna za iznajmljivanje pedalina diljem Jadrana. Imate niz lokaci
 
 Odlučili ste definirati niz lokacija gdje iznamljujete, i za svaku lokaciju bilježiti koje pedaline iznamljujete (kako vam ne bi nestale).
 
-Klasa Lokacija ima sljedeća svojstva:
+Klasa Lokacija ima sljedeća svojstva:<br/>
 
-ime i prezime odgovorne osobe
-GPS koordinate (double X i double Y)
-niz predmeta koji su dostupni
-Klasa Pedalina ima sljedeća svojstva:
+ime i prezime odgovorne osobe<br/>
+GPS koordinate (double X i double Y)<br/>
+niz predmeta koji su dostupni<br/>
+Klasa Pedalina ima sljedeća svojstva:<br/>
 
-boja
-kapacitet
+boja<br/>
+kapacitet<br/>
 U main programu potrebno je od korisnika tražiti unos broja N, nakon kojeg se unose podaci o N lokacija. Nakon što se unesu sva polja, potrebno je tražiti unos broja M, koji označava broj pedalina, te je potrebno unijeti tih M pedalina (neka lokacija može nuditi više pedalina).
 
 Primjer izvođenja:
