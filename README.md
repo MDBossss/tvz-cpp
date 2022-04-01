@@ -1,4 +1,4 @@
 
-### Object-Oriented Programming 
+## Object-Oriented Programming 
 ---
-## 1 - Konstruktori, pametni pokazivači
+### 1 - Konstruktori, pametni pokazivači
