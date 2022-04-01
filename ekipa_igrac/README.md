@@ -2,7 +2,8 @@ Potrebno je napisati program za evidenciju igrača u ekipi. Ekipa se sastoji od 
 
  
 
-int main(){
+
+int main(){;
 
        Ekipa ekipa;
 
