@@ -1,6 +1,6 @@
 
 ## Object-Oriented Programming 
-### 1 - Konstruktori, vector, metode, klase
+### 1 - [Konstruktori, vector, metode, klase](https://github.com/MDBossss/tvz-cpp/tree/main/vj-01)
 ### 2 - Enkapsulacija, imenovani prostor
 ### 3 - Semantike kopiranja i prijenosa
 ### 4 - Prijatelji, statički članovi, iznimke
