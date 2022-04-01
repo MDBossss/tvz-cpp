@@ -7,6 +7,8 @@ Klasa Lokacija ima sljedeća svojstva:<br/>
 ime i prezime odgovorne osobe<br/>
 GPS koordinate (double X i double Y)<br/>
 niz predmeta koji su dostupni<br/>
+
+
 Klasa Pedalina ima sljedeća svojstva:<br/>
 
 boja<br/>
