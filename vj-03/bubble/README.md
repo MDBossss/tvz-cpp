@@ -1,4 +1,4 @@
-otrebno je napisati klasu Bubble sa svojstvima boja i radijus.
+Potrebno je napisati klasu Bubble sa svojstvima boja i radijus.
 Implementacijom operatora zbrajanja (+) potrebno je omogućiti "spajanje" dva bubble-a u jedan.
 Novi bubble ima obujam jednak zbroju obujama bubble-a od kojih je nastao, a preuzima boju većeg bubble-a.
 Pri izdvajanju novog bubble-a iz postojećeg (operator -) nastaje novi sa smanjenim obujmom. Boja ostaje od originalnog bubble-a.
