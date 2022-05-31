@@ -12,4 +12,10 @@ auto suma(T1 a, T2 b) {
    return a + b;
 }
 ```
+// podržano u C++17 standardu
+```
+template <class... T>
+auto suma(const T&... argumenti){
+return (argumenti + ...);
+```
 
