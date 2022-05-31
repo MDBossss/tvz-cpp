@@ -16,6 +16,7 @@ auto suma(T1 a, T2 b) {
 ```
 template <class... T>
 auto suma(const T&... argumenti){
-return (argumenti + ...);
+    return (argumenti + ...);
+}
 ```
 
