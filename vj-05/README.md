@@ -19,4 +19,16 @@ auto suma(const T&... argumenti){
     return (argumenti + ...);
 }
 ```
+//ispis beskonacno args
+```
+template<class T1>
+void mojPrint(T1 prvi) {
+	cout << prvi;
+}
+
+template<class T1,class... Tostali>
+void mojPrint(T1 prvi, Tostali... ostali) {
+	mojPrint(ostali...);
+	cout << prvi;
+}
 
